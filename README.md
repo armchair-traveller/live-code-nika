@@ -1,5 +1,7 @@
 # [Hotel booking cards](https://live-code-nika.pages.dev/)
 
+All the work done in the session is in [src/routes/+page.svelte](src/routes/+page.svelte)
+
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
